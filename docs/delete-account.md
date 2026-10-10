@@ -1,39 +1,35 @@
----
-title: 删除账号
----
+# Deleting your Skyscraper Town account and data
 
-# 删除《摩天小镇》账号和数据
+[中文](delete-account-zh.md)
 
-[English](delete-account-en.html)
+This page explains how to delete the account you created in Skyscraper Town (developer: WANWU LAB / 玩物软件) and the data linked to it.
 
-本页说明如何删除你在《摩天小镇》（开发者：玩物软件 WANWU LAB）里注册的账号以及相关数据。
+## If you never created an account
 
-## 如果你没有注册过账号
+There is nothing you need to do. Saves and settings exist only on your device, and uninstalling the game deletes all of them.
 
-你不需要做任何事。存档和设置只在你的设备上，卸载游戏就全部删除了。
+## If you created an account
 
-## 如果你注册过账号
+1. Open <https://github.com/datianda/skyscraper-town/issues/new> and use the title "Delete account".
+2. In the body, write the email address you registered with. **Do not include your password.**
+3. We verify that the request is yours (we may contact you at that address).
+4. Within 30 days of confirmation we complete the deletion and reply "Deleted" on the issue.
 
-1. 打开 <https://github.com/datianda/skyscraper-town/issues/new>，标题写"删除账号"。
-2. 正文里写上注册时用的邮箱地址。**不要写密码。**
-3. 我们会核实这是你本人的请求（可能通过这个邮箱联系你）。
-4. 确认后 30 天内完成删除，并在该问题下回复"已删除"。
+If you would rather not post your email on a public page, open an issue with just the title "Delete account" and we will reply with a private way to send it.
 
-如果你不想在公开页面写出邮箱，可以只提交标题为"删除账号"的问题，我们会在回复里告诉你私下提供邮箱的方式。
+## What is deleted
 
-## 会删除什么
+- The account's email address and password hash
+- The list of devices the account was signed in on
+- Entitlement records (VIP, redemption codes used)
 
-- 账号的邮箱地址和密码散列
-- 这个账号登录过的设备清单
-- 权益记录（VIP、兑换码使用记录）
+## What is kept, and for how long
 
-## 会保留什么、保留多久
+- Order and payment records: kept as required by accounting and tax law, for up to 5 years, and not used for anything else during that time.
+- Server access logs: cleared automatically after at most 90 days.
 
-- 订单和付款记录：按财务和税务法规的要求保留，最长 5 年，期间不用于其他目的。
-- 服务器访问日志：最长 90 天后自动清除。
+## Deleting only some data
 
-## 只想删除部分数据
+To keep your account but remove one signed-in device, use the Account page in the game. You do not need to contact us.
 
-想保留账号、只移除某台登录过的设备：在游戏里的"账号"页就能直接操作，不需要联系我们。
-
-设备上的存档不在我们的服务器上：在游戏主菜单的"存档"里删除，或者卸载游戏。
+Saves on your device are not on our servers. Delete them under Saves in the game's main menu, or uninstall the game.

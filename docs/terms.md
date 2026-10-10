@@ -1,79 +1,75 @@
----
-title: 用户协议
----
+# Skyscraper Town Terms of Use
 
-# 《摩天小镇》用户协议
+**Effective date: October 11, 2026**　|　[中文](terms-zh.md)
 
-**生效日期：2026 年 10 月 11 日**　|　[English](terms-en.html)
+Welcome to Skyscraper Town (摩天小镇, "the game"), provided by **WANWU LAB (玩物软件)** ("we", "us"). By installing or using the game you agree to these terms and to the [Privacy Policy](privacy.md). If you do not agree, please do not use the game.
 
-欢迎来到《摩天小镇》（Skyscraper Town，下称"本游戏"）。本游戏由 **玩物软件（WANWU LAB）**（下称"我们"）提供。安装或使用本游戏，即表示你同意这份协议和[隐私政策](privacy.html)。不同意的话，请不要使用本游戏。
+## 1. License
 
-## 1. 使用许可
+We grant you a personal, non-transferable, non-exclusive license to install and play the game on devices you own or control, for non-commercial use only. Except where the law expressly allows it, you may not decompile, modify or redistribute the game, or bypass its payment or licensing mechanisms.
 
-我们授予你一项个人的、不可转让的、非独占的许可，在你拥有或控制的设备上安装和游玩本游戏，仅限非商业用途。除法律明确允许的以外，你不得反编译、修改、再分发本游戏，也不得绕过其中的付费或授权机制。
+## 2. Age
 
-## 2. 年龄
+You must be at least 13 years old (or the higher age set in your region) to use the game. Minors should use it with the consent and guidance of a guardian.
 
-你需年满 13 周岁（或你所在地区规定的更高年龄）才能使用本游戏。未成年人应在监护人同意和指导下使用。
+## 3. Accounts
 
-## 3. 账号
+- An account is optional. You can play the whole game without one.
+- You are responsible for all activity under your account. Keep your password safe and tell us promptly if your account is compromised.
+- An account can be signed in on a limited number of devices at once. You can review and remove devices in the game.
+- You can ask us to delete your account at any time. See [How to delete your account](delete-account.md).
 
-- 账号是可选的，不注册也能完整地游玩。
-- 你对账号下的所有活动负责，请保管好密码。发现账号被盗用请尽快联系我们。
-- 一个账号能同时登录的设备数量有限，你可以在游戏里查看和移除设备。
-- 你可以随时要求删除账号，见[删除账号说明](delete-account.html)。
+## 4. Paid features
 
-## 4. 付费功能
+- The free content of the game is complete and playable. Paid features (such as VIP) are extra conveniences, described on the purchase page.
+- In the Google Play version, purchases are made through Google Play. Payment, renewal and refunds follow Google Play's rules, and refund requests go to Google Play.
+- Paid entitlements are tied to your account. They cannot be transferred or exchanged for cash.
 
-- 本游戏的免费内容是完整可玩的。付费功能（如 VIP）是额外的便利，具体内容以购买页面的说明为准。
-- 在 Google Play 版本中，购买通过 Google Play 完成，付款、续费和退款遵循 Google Play 的规则，退款请向 Google Play 申请。
-- 付费权益绑定到你的账号，不可转让、不可兑换现金。
+## 5. Simulated gambling content
 
-## 5. 模拟博彩内容
+The game includes casino-themed and card minigames. These are **simulated entertainment**:
 
-本游戏中有赌场、棋牌等主题的小游戏，属于**模拟娱乐**：
+- Chips and coins are fictional in-game items. **Chips cannot be bought with real money, and cannot be exchanged for real money, goods or anything of value.**
+- Winning or losing in a minigame does not reflect results in real gambling.
+- The game offers no real-money gambling of any kind.
 
-- 其中的筹码、金币都是游戏内的虚构物品，**不能用真实货币购买筹码，也不能兑换成真实货币、实物或任何有价物**。
-- 小游戏的输赢不代表在真实博彩中的结果。
-- 本游戏不提供任何真实金钱的博彩服务。
+## 6. Your conduct
 
-## 6. 你的行为
+When using the game you must not:
 
-使用本游戏时，你不得：
+- use cheats, trainers or any other means to interfere with the game or our servers;
+- use someone else's account, or create accounts in bulk by automated means;
+- put unlawful, abusive or infringing text into content you enter yourself, such as tower or owner names;
+- use the game for any unlawful purpose.
 
-- 使用外挂、修改器或其他方式干扰游戏或我们的服务器；
-- 冒用他人账号，或以自动化手段批量注册账号；
-- 在楼名、楼主名等你自己填写的内容里使用违法、侮辱、侵权的文字；
-- 把本游戏用于任何违法目的。
+## 7. AI residents
 
-## 7. AI 住户功能
+You may connect your own AI model service so residents can generate dialogue. You choose that service and are responsible for it. Generated content does not represent our views, and any cost or consequence of using it is yours.
 
-你可以接入自己的 AI 模型服务让住户生成对话。那个服务由你自己选择和负责，生成的内容不代表我们的立场，由此产生的费用和后果由你承担。
+## 8. Intellectual property
 
-## 8. 知识产权
+The game's code, artwork, text, music, and the Skyscraper Town name and logo belong to us or the respective rights holders. Building designs in the game are original and are not affiliated with or endorsed by any real building or its owners. Licenses for third-party components are listed under Credits in the game.
 
-本游戏的程序、美术、文字、音乐及"摩天小镇"的名称与标识归我们或相应权利人所有。游戏中出现的建筑造型均为原创设计，与任何真实建筑及其所有者没有从属或授权关系。第三方组件的许可见游戏内"制作人员"。
+## 9. Changes and interruptions
 
-## 9. 服务的变更与中断
+We try to keep the service stable but do not guarantee that online services such as accounts and balance updates will never be interrupted. Saves are stored on your device, so please back them up yourself (you can export a save code in the game). We cannot restore saves lost through device failure, uninstalling or similar causes. We may change game content and balance, or end operation after giving notice.
 
-我们会尽力保持服务稳定，但不保证账号、数值同步等联网服务永不中断。存档保存在你的设备上，请自行备份（游戏里可以导出存档码）；因设备损坏、卸载等原因丢失的存档，我们无法恢复。我们可能调整游戏内容和数值，或在提前公告后停止运营。
+## 10. Disclaimer and limitation of liability
 
-## 10. 免责与责任限制
+The game is provided "as is". To the fullest extent permitted by law, we are not liable for indirect losses arising from using or being unable to use the game, and our total liability is limited to the amount you actually paid for the game in the twelve months before the dispute arose. Exclusions that the law of your region does not allow do not apply to you.
 
-本游戏按"现状"提供。在法律允许的最大范围内，我们不对因使用或无法使用本游戏造成的间接损失负责；我们的全部责任以你在争议发生前十二个月内为本游戏实际支付的金额为限。你所在地区的法律不允许的免责，不适用于你。
+## 11. Termination
 
-## 11. 终止
+You can end these terms at any time by uninstalling the game. If you seriously breach these terms, we may suspend or terminate your account.
 
-你可以随时卸载本游戏来终止本协议。如果你严重违反本协议，我们可以暂停或终止你的账号。
+## 12. Changes to these terms
 
-## 12. 协议的变更
+When the terms change in a material way, we update the effective date on this page and ask you to confirm again when the game starts.
 
-协议有实质变化时，我们会更新本页的生效日期，并在游戏启动时再次请你确认。
+## 13. Governing law
 
-## 13. 适用法律
+These terms are governed by the laws of the People's Republic of China. Disputes should first be resolved through friendly negotiation. Failing that, they are submitted to the competent people's court where we are located. Mandatory consumer rights you have under the law of your place of residence are not affected.
 
-本协议适用中华人民共和国法律。因本协议产生的争议，双方应先友好协商；协商不成的，提交我们所在地有管辖权的人民法院解决。你作为消费者依所在地法律享有的强制性权利不受影响。
+## 14. Contact
 
-## 14. 联系我们
-
-- 在 GitHub 上提交问题：<https://github.com/datianda/skyscraper-town/issues>
+- Open an issue on GitHub: <https://github.com/datianda/skyscraper-town/issues>

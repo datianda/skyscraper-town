@@ -1,98 +1,94 @@
----
-title: 隐私政策
----
+# Skyscraper Town Privacy Policy
 
-# 《摩天小镇》隐私政策
+**Effective date: October 11, 2026**　|　[中文](privacy-zh.md)
 
-**生效日期：2026 年 10 月 11 日**　|　[English](privacy-en.html)
+Skyscraper Town (摩天小镇, "the game") is developed and operated by **WANWU LAB (玩物软件)** ("we", "us"). This policy explains what information the game collects, why, how it is stored, and what rights you have.
 
-《摩天小镇》（Skyscraper Town，下称"本游戏"）由 **玩物软件（WANWU LAB）**（下称"我们"）开发和运营。这份政策说明本游戏收集哪些信息、为什么收集、怎么保存，以及你有哪些权利。
+In short: **your saves stay on your device, you can play the whole game without an account, and the game contains no ads and no third-party analytics or advertising SDKs.**
 
-一句话概括：**存档只在你的设备上；不注册账号也能完整地玩；游戏里没有广告，也没有第三方的统计或广告组件。**
+## 1. What we collect
 
-## 1. 我们收集什么
+### 1.1 Data that stays on your device (we never receive it)
 
-### 1.1 只留在你设备上的（我们拿不到）
+- Game saves, save thumbnails and settings (language, volume, which hints you have seen, and so on).
+- The AI model address and key you enter yourself (see section 4).
 
-- 游戏存档、存档缩略图、设置（语言、音量、看过的提示等）。
-- 你自己填的 AI 模型地址和密钥（见第 4 节）。
+Uninstalling the game or clearing its app data deletes all of it.
 
-卸载游戏或清除应用数据，这些就一并删除。
+### 1.2 Data sent automatically when the game starts
 
-### 1.2 游戏启动时自动发给我们的
+After you tap "Agree and Continue" on first launch, the game sends the following to our server once each time it starts:
 
-你在首次启动时点了"同意并继续"之后，游戏每次启动会向我们的服务器发送一次：
-
-| 信息 | 用途 |
+| Data | Purpose |
 |---|---|
-| 设备标识 | 一个由系统标识加上本游戏的名字做单向散列（SHA-256）得到的字符串。它只对本游戏有效，无法还原出系统原始标识，也无法用来在别的应用里认出你。用于统计安装量、管理账号能同时登录几台设备、防止滥用。 |
-| 系统类型 | 例如 android、windows。用于排查兼容性问题。 |
-| 游戏版本号 | 用于排查问题、了解各版本的使用情况。 |
+| Device identifier | A string produced by a one-way hash (SHA-256) of the system identifier combined with this game's name. It is valid only for this game, cannot be reversed into the original system identifier, and cannot be used to recognize you in other apps. Used to count installs, manage how many devices an account can be signed in on, and prevent abuse. |
+| System type | For example "android" or "windows". Used to investigate compatibility problems. |
+| Game version | Used to investigate problems and understand which versions are in use. |
 
-同时，游戏会从我们的服务器下载一份数值配置文件（用来调整游戏平衡）。和所有网络请求一样，服务器会看到你的 IP 地址并可能记在访问日志里，日志只用于安全和排错。
+The game also downloads a balance configuration file from our server. As with any network request, the server sees your IP address and may record it in access logs, which are used only for security and troubleshooting.
 
-### 1.3 你注册或登录账号时（自愿）
+### 1.3 Data you provide when you create or sign in to an account (optional)
 
-账号不是必需的。只有你主动注册或登录时，我们才会收集：
+An account is not required. Only if you choose to register or sign in do we collect:
 
-| 信息 | 用途 |
+| Data | Purpose |
 |---|---|
-| 邮箱地址 | 作为账号名，用于登录，以及在你提出请求时核实身份。 |
-| 密码 | 只以加盐的 scrypt 散列形式保存，我们看不到你的原始密码。 |
-| 登录的设备清单 | 上面说的设备标识、系统类型、版本号和登录时间。用于让你查看和移除登录的设备。 |
-| 权益记录 | 你是否开通了付费功能、到期时间、用过的兑换码。 |
+| Email address | Your account name, used for signing in and for verifying your identity when you make a request. |
+| Password | Stored only as a salted scrypt hash. We cannot see your original password. |
+| Signed-in devices | The device identifier, system type, version and sign-in time described above, so you can review and remove devices. |
+| Entitlements | Whether you have unlocked paid features, when they expire, and redemption codes you have used. |
 
-### 1.4 付费
+### 1.4 Purchases
 
-- **Google Play 版本**：付费功能通过 Google Play 的应用内购买完成，付款信息由 Google 处理，我们拿不到你的银行卡或支付账号，只会收到"这笔订单是否成功"的结果。
-- **其他渠道的版本**：通过第三方支付平台的收款码付款，付款信息由支付平台处理，我们只记录订单号和是否到账。
+- **Google Play version**: paid features are bought through Google Play in-app purchases. Google processes the payment. We never receive your card or payment account details, only whether the order succeeded.
+- **Versions from other channels**: payment goes through a third-party payment platform, which processes the payment details. We record only the order number and whether payment arrived.
 
-### 1.5 我们不收集的
+### 1.5 What we do not collect
 
-位置、通讯录、相册、相机、麦克风、短信、通话记录、设备上的其他应用列表、广告标识符（Advertising ID）。本游戏在安卓上只申请"访问网络"这一项权限。
+Location, contacts, photos, camera, microphone, SMS, call logs, the list of other apps on your device, or the Advertising ID. On Android the game requests only the Internet permission.
 
-## 2. 串门（看别人的楼）
+## 2. Visiting other towers
 
-当前版本的"串门"只展示游戏内置的示例大楼，**不会上传你的楼**。以后如果开放在线分享，只有在你主动选择上传时才会发送楼的布局、楼名和你起的楼主名字，并且我们会先更新本政策。
+In the current version, "Visit" shows only sample towers built into the game and **does not upload your tower**. If online sharing is added later, your tower's layout, its name and your owner name will be sent only when you actively choose to upload, and we will update this policy first.
 
-## 3. 我们不做的事
+## 3. What we do not do
 
-- 不出售你的个人信息。
-- 不把你的信息用于广告投放或用户画像。
-- 不接入第三方的广告或数据分析组件。
+- We do not sell your personal information.
+- We do not use your information for advertising or profiling.
+- We do not include third-party advertising or analytics SDKs.
 
-## 4. AI 住户（可选功能，默认关闭）
+## 4. AI residents (optional, off by default)
 
-你可以在设置里填写你自己的 AI 模型服务地址和密钥，让楼里的住户用它生成对话。开启后，游戏会把住户对话的上下文（住户的名字、职业、所处场景等游戏内虚构内容）**直接从你的设备发送到你填写的那个地址**，不经过我们的服务器，我们收不到这些内容。那个服务如何处理数据，取决于它自己的隐私政策。地址和密钥只保存在你的设备上。
+In Settings you can enter the address and key of your own AI model service so residents can use it to generate dialogue. When enabled, the game sends the dialogue context (fictional in-game content such as a resident's name, job and situation) **directly from your device to the address you entered**. It does not pass through our servers and we do not receive it. How that service handles data depends on its own privacy policy. The address and key are stored only on your device.
 
-## 5. 保存多久、保存在哪
+## 5. Retention and storage
 
-- 账号信息保存到你要求删除账号为止。
-- 没有登录过账号的设备标识记录，自最后一次启动起最长保留 24 个月。
-- 服务器访问日志最长保留 90 天。
-- 数据保存在我们租用的服务器上，传输全程使用 HTTPS 加密。
+- Account data is kept until you ask us to delete your account.
+- Device identifier records that were never linked to an account are kept for up to 24 months after the last launch.
+- Server access logs are kept for up to 90 days.
+- Data is stored on servers we rent, and all transfers use HTTPS encryption.
 
-## 6. 你的权利
+## 6. Your rights
 
-你可以随时：
+At any time you can:
 
-- **查看和更正**：在游戏里的"账号"页查看邮箱、修改密码、查看和移除登录的设备。
-- **删除账号和相关数据**：见[删除账号说明](delete-account.html)。我们在核实身份后 30 天内完成删除。
-- **撤回同意**：卸载游戏即停止一切数据收集。
-- **提出疑问或投诉**：通过第 9 节的联系方式找到我们。
+- **Access and correct**: on the Account page in the game, view your email, change your password, and review or remove signed-in devices.
+- **Delete your account and related data**: see [How to delete your account](delete-account.md). We complete deletion within 30 days of verifying your identity.
+- **Withdraw consent**: uninstalling the game stops all data collection.
+- **Ask questions or complain**: contact us as described in section 9.
 
-如果你在欧盟、英国、美国加利福尼亚州等地区，你还享有当地法律规定的访问、可携带、限制处理、反对处理等权利，同样通过第 9 节的方式行使。我们处理数据的法律依据是：你的同意（设备报到），以及履行与你之间的服务约定（账号和付费功能）。
+If you are in the EU, the UK, California or a similar jurisdiction, you also have the rights given by local law, such as access, portability, restriction and objection, which you can exercise through section 9. Our legal bases for processing are your consent (the device check-in) and performing our service agreement with you (accounts and paid features).
 
-## 7. 未成年人
+## 7. Children
 
-本游戏不面向 13 周岁以下的儿童（或你所在地区规定的更高年龄），我们不会在知情的情况下收集他们的个人信息。游戏中含有不涉及真实金钱的模拟博彩类小游戏（见[用户协议](terms.html)）。如果你是监护人并发现孩子向我们提供了个人信息，请联系我们删除。
+The game is not directed to children under 13 (or the higher age set in your region), and we do not knowingly collect their personal information. The game includes simulated gambling minigames that involve no real money (see the [Terms of Use](terms.md)). If you are a guardian and believe your child has given us personal information, contact us and we will delete it.
 
-## 8. 政策的变更
+## 8. Changes to this policy
 
-政策有实质变化时，我们会更新本页的生效日期，并在游戏启动时再次请你确认。
+When the policy changes in a material way, we update the effective date on this page and ask you to confirm again when the game starts.
 
-## 9. 联系我们
+## 9. Contact
 
-- 在 GitHub 上提交问题：<https://github.com/datianda/skyscraper-town/issues>
+- Open an issue on GitHub: <https://github.com/datianda/skyscraper-town/issues>
 
-涉及账号的请求请不要在公开的问题里写出密码等敏感信息。
+Please do not include passwords or other sensitive details in a public issue.

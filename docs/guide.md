@@ -1,75 +1,71 @@
----
-title: 玩法说明
----
+# How to Play Skyscraper Town
 
-# 《摩天小镇》玩法说明
+[中文](guide-zh.md)
 
-[English](guide-en.html)
+## What kind of game is this?
 
-## 这是个什么游戏
+You own a tower. What goes up, who moves in and which shops open are all your call. Residents need food, parking and fun; shops need customers. Get the mix right and the tower makes money. One tower, a whole little town.
 
-你是一栋楼的楼主。往上盖什么、让谁住进来、开什么店，都由你定。住户要吃饭、停车、消遣，店铺要客人：搭配得好，楼才赚钱。一栋楼，就是一座小镇。
+![Skyline](img/skyline.jpg)
 
-![天际线](img/skyline.jpg)
+## From launch to playing
 
-## 从启动到开玩
+1. **Main menu**: Continue, New Game, Saves and Settings. There are 4 save slots.
+2. **New Game**: name your first tower and pick a difficulty.
+   - Relaxed: no disasters, and homes fill up as soon as they are built.
+   - Standard: fires, blackouts and burst pipes happen, so fire safety and repairs need funding.
+   - Hardcore: on top of that, new homes wait for tenants and every empty tile costs you daily.
+3. **Skyline**: a row of towers above a sea of clouds. The one with its lights on is yours. Tap it for a summary, then tap Enter. The rest are still hidden in the clouds until you run your tower well.
+4. **Inside the tower**: the first time, a short tour shows you the interface, has you build your first apartment floor, and ends with tapping ▶ to start the clock.
 
-1. **主菜单**：继续游戏、新游戏、存档、设置。一共 4 个存档位。
-2. **新游戏**：给第一栋楼起个名字，挑一档难度。
-   - 轻松：没有灾难，房子盖好就有人住。
-   - 标准：会起火、停电、爆水管，要养着消防和维修。
-   - 硬核：再加上新房要等人来租、空着的格子天天交钱。
-3. **天际线**：云海上立着一排楼。亮着灯的是你的楼，点它看概况，再点"进去"。其余的还藏在云里，把手里的楼经营好才看得清。
-4. **进楼**：头一回有一段导览，带你认界面、盖第一层公寓，最后点 ▶ 让时间走起来。
+## The interface
 
-## 界面
+![Inside the tower](img/build.jpg)
 
-![楼里](img/build.jpg)
-
-| 位置 | 是什么 |
+| Where | What |
 |---|---|
-| 左上 | 楼主等级、账上的钱和每小时净赚、日期和天气 |
-| 左上（顶栏下面） | "要管的事"：楼里眼下的毛病，写着一天少赚多少。点一条就带你过去，可以收起来 |
-| 右上 | 暂停、开始和倍速、静音、存档、菜单 |
-| 底部 | 盖楼、这一层、全楼、游戏、投资、串门 |
-| 中间 | 你的楼。点一层选中它；双指捏合缩放（电脑上用滚轮） |
+| Top left | Owner level, cash and net income per hour, date and weather |
+| Top left, under the bar | "Things to Fix": what is going wrong right now and how much it costs per day. Tap a line to go there. It can be folded away |
+| Top right | Pause, play and speed, mute, save, menu |
+| Bottom | Build, This Floor, Tower, Games, Invest, Visit |
+| Center | Your tower. Tap a floor to select it. Pinch to zoom (mouse wheel on PC) |
 
-每一页头一回点开，最上面都有一句话说它是干什么的。
+Each page explains itself the first time you open it.
 
-## 基本操作
+## Basic controls
 
-- **盖楼**：底部"盖楼"，挑一种楼层，点"建造"。可以往上盖，也可以往下挖地下室。
-- **添房间**：点一层楼，在"这一层"里从"添置"挑房间。每层 20 格。
-- **招人**：楼板上红色的小牌子是缺人，点一下就能招。
-- **挪房间**：按住一间房不放，等圈画满就拿起来了；点亮着绿色的位置放下，点另一间房是对换。
-- **升级**：在"这一层"里给楼层和房间升级。
-- **快进**：点 ▶ 旁边的倍速。更高的倍速要楼主等级够了才开放。
+- **Build**: tap Build at the bottom, pick a floor type and tap Build. You can go up, or dig basements.
+- **Add rooms**: tap a floor, then pick rooms under Add in This Floor. Each floor has 20 tiles.
+- **Hire**: a red tag on a floor means it is short of staff. Tap it to hire.
+- **Move rooms**: press and hold a room until the ring fills, then tap a green spot to place it, or tap another room to swap.
+- **Upgrade**: upgrade floors and rooms in This Floor.
+- **Speed up**: tap the speed next to ▶. Faster speeds unlock at higher owner levels.
 
-## 怎么把楼经营好
+## Running a good tower
 
-- **看配比**：住户要餐饮、车位、物业，等级高了还要休闲、健康、教育。缺哪样，需要它的楼层都会少赚。
-- **看摆法**：同样的房间，摆在哪、挨着谁，赚的不一样。吵的店别挨着公寓；有些楼层挨在一起会互相带旺。"全楼 → 楼体"里能看到摆法让你多赚和少赚了多少。
-- **地方有限**：第一栋楼地上最多 30 层、地下 5 层。想添新的，得先想好哪样可以不要。
-- **楼越高越费钱**：超过 10 层以后，每多一层都有楼体养护费。空着的楼层是白花钱。
-- **顾问**：楼主等级够了可以雇顾问，他们会出主意、代办琐事；再往后还能把楼交给他们自动打理。
+- **Watch the mix**: residents need food, parking and services, and at higher levels leisure, wellness and education. Whatever is short, every floor that needs it earns less.
+- **Watch the layout**: the same room earns differently depending on where it sits and what is next to it. Keep noisy shops away from apartments. Some floors boost each other when adjacent. Tower → Structure shows how much your layout is adding and costing.
+- **Space is limited**: the first tower holds at most 30 floors above ground and 5 basements. Adding something new means deciding what to give up.
+- **Height costs money**: past 10 floors, every extra floor adds structure upkeep. Empty floors are money down the drain.
+- **Advisors**: at a high enough owner level you can hire advisors who give tips and handle chores, and later let them run the tower automatically.
 
-## 小游戏
+## Minigames
 
-楼里开了什么店，就能玩什么小游戏：棋牌、街机、运动、手工等八十多种。每个小游戏顶上都有"说明"，点开是完整的规则。
+Every shop you open brings a minigame: more than eighty card, board, arcade, sports and craft games. Each has a Rules button at the top with the full rules.
 
-赌场和棋牌类小游戏只是模拟娱乐：筹码是游戏里的虚构物品，不能用真钱购买，也不能兑换成真钱或实物。
+Casino and card minigames are simulated entertainment only. Chips are fictional in-game items that cannot be bought with real money or exchanged for real money or goods.
 
-## 存档
+## Saves
 
-- 游戏会自动存档，切到后台、退出时也会存。
-- 存档只在你的设备上。换手机或重装之前，在"设置 → 存档"里复制一份存档码留好，到新设备的主菜单粘回来。
+- The game saves automatically, and also when it goes to the background or closes.
+- Saves exist only on your device. Before changing phones or reinstalling, copy a save code under Settings → Saves, and paste it in the main menu on the new device.
 
-## 常见问题
+## FAQ
 
-**要联网吗？** 不联网也能玩。联网只用于取最新的数值配置，以及你自愿登录账号时。
+**Do I need to be online?** No. When online, the game checks in with our server once per launch and fetches the latest balance values (see the [Privacy Policy](privacy.md)), and connects when you choose to sign in.
 
-**要注册账号吗？** 不用。账号只在开通付费功能时才需要。
+**Do I need an account?** No. An account is needed only to unlock paid features.
 
-**有广告吗？** 没有。
+**Are there ads?** No.
 
-**遇到问题怎么反馈？** 到 <https://github.com/datianda/skyscraper-town/issues> 提交。
+**How do I report a problem?** Open an issue at <https://github.com/datianda/skyscraper-town/issues>.
