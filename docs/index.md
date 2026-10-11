@@ -2,7 +2,7 @@
 
 **One tower, a whole little town.** 一栋楼，就是一座小镇。
 
-![Skyline](img/skyline.jpg)
+![The city above the clouds](img/skyline.jpg)
 
 Build floors, bring in residents, open shops, and turn one tower into a lively little town. For Android and PC, by **WANWU LAB (玩物软件)**.
 

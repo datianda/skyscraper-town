@@ -6,7 +6,7 @@
 
 You own a tower. What goes up, who moves in and which shops open are all your call. Residents need food, parking and fun; shops need customers. Get the mix right and the tower makes money. One tower, a whole little town.
 
-![Skyline](img/skyline.jpg)
+![The city above the clouds](img/skyline.jpg)
 
 ## From launch to playing
 
@@ -15,7 +15,7 @@ You own a tower. What goes up, who moves in and which shops open are all your ca
    - Relaxed: no disasters, and homes fill up as soon as they are built.
    - Standard: fires, blackouts and burst pipes happen, so fire safety and repairs need funding.
    - Hardcore: on top of that, new homes wait for tenants and every empty tile costs you daily.
-3. **Skyline**: a row of towers above a sea of clouds. The one with its lights on is yours. Tap it for a summary, then tap Enter. The rest are still hidden in the clouds until you run your tower well.
+3. **The city above the clouds**: a row of towers above a sea of clouds. The one with its lights on is yours. Tap it for a summary, then tap Enter. The rest are still hidden in the clouds until you run your tower well.
 4. **Inside the tower**: the first time, a short tour shows you the interface, has you build your first apartment floor, and ends with tapping ▶ to start the clock.
 
 ## The interface

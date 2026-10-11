@@ -8,7 +8,7 @@
 
 You own a tower. What goes up, who moves in and which shops open are all your call. Residents need food, parking and fun; shops need customers. Get the mix right and the tower makes money.
 
-![Skyline](docs/img/skyline.jpg)
+![The city above the clouds](docs/img/skyline.jpg)
 
 ## Features
 
@@ -53,7 +53,7 @@ Skyscraper Town is developed by **WANWU LAB (玩物软件)**. All rights reserve
 
 你是一栋楼的楼主。往上盖什么、让谁住进来、开什么店，都由你定。住户要吃饭、停车、消遣，店铺要客人：搭配得好，楼才赚钱。
 
-![天际线](docs/img/skyline.jpg)
+![云上城](docs/img/skyline.jpg)
 
 ## 游戏特色
 
