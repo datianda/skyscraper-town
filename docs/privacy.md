@@ -1,10 +1,10 @@
 # Skyscraper Town Privacy Policy
 
-**Effective date: October 11, 2026**　|　[中文](privacy-zh.md)
+**Effective date: October 12, 2026**　|　[中文](privacy-zh.md)
 
 Skyscraper Town (摩天小镇, "the game") is developed and operated by **WANWU LAB (玩物软件)** ("we", "us"). This policy explains what information the game collects, why, how it is stored, and what rights you have.
 
-In short: **your saves stay on your device, you can play the whole game without an account, and the game contains no ads and no third-party analytics or advertising SDKs.**
+In short: **your saves stay on your device (and, in the Google Play version, in your own Google account if you sign in to Play Games), you can play the whole game without signing in, and the game contains no ads and no third-party analytics or advertising SDKs.**
 
 ## 1. What we collect
 
@@ -15,9 +15,17 @@ In short: **your saves stay on your device, you can play the whole game without 
 
 Uninstalling the game or clearing its app data deletes all of it.
 
+**Cloud saves in the Google Play version.** In this version you can sign in to Google Play Games with the Google account on your device. Signing in is optional. If you do:
+
+- Google gives the game your Play Games player name and player ID. The game uses them only to show who is signed in. They are not sent to us.
+- The game stores a copy of your saves in **your own Google account** (Play Games "Saved Games") so you can get them back after changing phones or reinstalling. Google holds that copy. It is not on our servers and we cannot see it. You can turn off automatic uploads under Cloud Saves in the game.
+- How Google handles this data is described in the [Google Privacy Policy](https://policies.google.com/privacy). To delete the cloud copy, see [How to delete your account](delete-account.md).
+
 ### 1.2 Data sent automatically when the game starts
 
-After you tap "Agree and Continue" on first launch, the game sends the following to our server once each time it starts:
+**The Google Play version sends none of the items in the table below.** It only downloads the balance configuration file described under the table.
+
+In versions from other channels: after you tap "Agree and Continue" on first launch, the game sends the following to our server once each time it starts:
 
 | Data | Purpose |
 |---|---|
@@ -29,7 +37,9 @@ The game also downloads a balance configuration file from our server. As with an
 
 ### 1.3 Data you provide when you create or sign in to an account (optional)
 
-An account is not required. Only if you choose to register or sign in do we collect:
+**The Google Play version has no account with us.** It uses the Google Play Games sign-in described in section 1.1, and this section does not apply to it.
+
+In versions from other channels, an account is not required. Only if you choose to register or sign in do we collect:
 
 | Data | Purpose |
 |---|---|
@@ -55,7 +65,7 @@ In the current version, "Visit" shows only sample towers built into the game and
 
 - We do not sell your personal information.
 - We do not use your information for advertising or profiling.
-- We do not include third-party advertising or analytics SDKs.
+- We do not include third-party advertising or analytics SDKs. (The Google Play version includes the Google Play Games Services SDK, used only for sign-in and cloud saves.)
 
 ## 4. AI residents (optional, off by default)
 
@@ -72,7 +82,7 @@ In Settings you can enter the address and key of your own AI model service so re
 
 At any time you can:
 
-- **Access and correct**: on the Account page in the game, view your email, change your password, and review or remove signed-in devices.
+- **Access and correct**: on the Account page in the game, view your email, change your password, and review or remove signed-in devices (Google Play version: the Cloud Saves page shows your sign-in status and the saves in the cloud).
 - **Delete your account and related data**: see [How to delete your account](delete-account.md). We complete deletion within 30 days of verifying your identity.
 - **Withdraw consent**: uninstalling the game stops all data collection.
 - **Ask questions or complain**: contact us as described in section 9.

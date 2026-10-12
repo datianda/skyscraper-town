@@ -8,7 +8,17 @@ This page explains how to delete the account you created in Skyscraper Town (dev
 
 There is nothing you need to do. Saves and settings exist only on your device, and uninstalling the game deletes all of them.
 
-## If you created an account
+## Google Play version: deleting cloud saves
+
+The Google Play version has no account with us. You sign in to Google Play Games, and cloud saves are stored in your own Google account. None of your data is on our servers, so there is no need to contact us. To delete the cloud copy:
+
+1. Open the Play Games app on your phone (or "Play Games" in your Google Account settings).
+2. Go to Settings → "Delete Play Games account & data".
+3. Under "Delete individual game data", find Skyscraper Town and tap Delete.
+
+To stop future uploads, turn off "Upload after saving" under Cloud Saves on the game's title screen.
+
+## If you created an account in a version from another channel
 
 1. Open <https://github.com/datianda/skyscraper-town/issues/new> and use the title "Delete account".
 2. In the body, write the email address you registered with. **Do not include your password.**
