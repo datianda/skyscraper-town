@@ -55,7 +55,7 @@ In versions from other channels, an account is not required. Only if you choose 
 
 ### 1.5 What we do not collect
 
-Location, contacts, photos, camera, microphone, SMS, call logs, the list of other apps on your device, or the Advertising ID. On Android the game requests only the Internet permission.
+Location, contacts, photos, camera, microphone, SMS, call logs, the list of other apps on your device, or the Advertising ID. On Android the game requests only network-related permissions: Internet access and checking whether the network is connected. The Google Play version also uses Google Play Billing (for buying Time Cards).
 
 ## 2. Visiting other towers
 
