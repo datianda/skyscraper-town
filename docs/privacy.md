@@ -1,6 +1,6 @@
 # Skyscraper Town Privacy Policy
 
-**Effective date: October 12, 2026**　|　[中文](privacy-zh.md)
+**Effective date: October 14, 2026**　|　[中文](privacy-zh.md)
 
 Skyscraper Town (摩天小镇, "the game") is developed and operated by **WANWU LAB (玩物软件)** ("we", "us"). This policy explains what information the game collects, why, how it is stored, and what rights you have.
 
@@ -53,7 +53,16 @@ In versions from other channels, an account is not required. Only if you choose 
 - **Google Play version**: paid features are bought through Google Play in-app purchases. Google processes the payment. We never receive your card or payment account details, only whether the order succeeded.
 - **Versions from other channels**: payment goes through a third-party payment platform, which processes the payment details. We record only the order number and whether payment arrived.
 
-### 1.5 What we do not collect
+### 1.5 Feedback survey (optional)
+
+The game includes a feedback survey. Filling it in is up to you. When you tap Send, the game sends the following to a survey we host on Google Forms:
+
+- your answers (the options you picked and anything you typed);
+- the game version, interface language, device operating system and model, owner level, and which unlocks you have bought.
+
+It does not include your account, email address, player name, or any device identifier, so we cannot tell who you are from it. Please don't put personal information in the text you write. As with any web request, Google, as the provider of Google Forms, receives the request (including your IP address); see Google's Privacy Policy for how Google handles it.
+
+### 1.6 What we do not collect
 
 Location, contacts, photos, camera, microphone, SMS, call logs, the list of other apps on your device, or the Advertising ID. On Android the game requests only network-related permissions: Internet access and checking whether the network is connected. The Google Play version also uses Google Play Billing (for buying Time Cards).
 
@@ -76,6 +85,7 @@ In Settings you can enter the address and key of your own AI model service so re
 - Account data is kept until you ask us to delete your account.
 - Device identifier records that were never linked to an account are kept for up to 24 months after the last launch.
 - Server access logs are kept for up to 90 days.
+- Feedback survey responses are kept in our Google account, used only to improve the game, and kept for up to 24 months.
 - Data is stored on servers we rent, and all transfers use HTTPS encryption.
 
 ## 6. Your rights
