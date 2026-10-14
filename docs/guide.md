@@ -58,14 +58,17 @@ Casino and card minigames are simulated entertainment only. Chips are fictional 
 ## Saves
 
 - The game saves automatically, and also when it goes to the background or closes.
-- Saves exist only on your device. Before changing phones or reinstalling, copy a save code under Settings → Saves, and paste it in the main menu on the new device.
+- Saves live on your device. In the Google Play version, once you sign in to Google Play Games, a copy is backed up to your own Google account automatically, so you can restore it on a new phone.
+- If you haven't signed in, copy a save code under Settings → Saves before changing phones or reinstalling, and paste it in the main menu on the new device.
 
 ## FAQ
 
-**Do I need to be online?** No. When online, the game checks in with our server once per launch and fetches the latest balance values (see the [Privacy Policy](privacy.md)), and connects when you choose to sign in.
+**Do I need to be online?** No. When online, the game downloads the latest balance values (see the [Privacy Policy](privacy.md)). Otherwise it only goes online when you sign in to Google Play Games, make a purchase or send feedback.
 
-**Do I need an account?** No. An account is needed only to unlock paid features.
+**Do I need an account?** No. In the Google Play version, purchases go through Google Play, and cloud saves use Google Play Games. There is nothing else to sign up for.
+
+**Is it free?** It's free to download, and the whole first tower is free with no time limit. If you enjoy it, one-time unlocks add every later tower, unlimited minigames, faster game speeds, Advisor Auto-Run, or all four together. Buy once and keep it on every device. Optional Time Card packs skip real-time upgrade waits, and daily and weekly quests give them out too.
 
 **Are there ads?** No.
 
-**How do I report a problem?** Open an issue at <https://github.com/datianda/skyscraper-town/issues>.
+**How do I report a problem?** In the game: Menu → Settings → Account → Report a Problem. You can also open an issue at <https://github.com/datianda/skyscraper-town/issues>.
