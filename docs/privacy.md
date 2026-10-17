@@ -1,6 +1,6 @@
 # Skyscraper Town Privacy Policy
 
-**Effective date: October 14, 2026**　|　[中文](privacy-zh.md)
+**Effective date: October 17, 2026**　|　[中文](privacy-zh.md)
 
 Skyscraper Town (摩天小镇, "the game") is developed and operated by **WANWU LAB (玩物软件)** ("we", "us"). This policy explains what information the game collects, why, how it is stored, and what rights you have.
 
@@ -19,6 +19,7 @@ Uninstalling the game or clearing its app data deletes all of it.
 
 - Google gives the game your Play Games player name and player ID. The game uses them only to show who is signed in. They are not sent to us.
 - The game stores a copy of your saves in **your own Google account** (Play Games "Saved Games") so you can get them back after changing phones or reinstalling. Google holds that copy. It is not on our servers and we cannot see it. You can turn off automatic uploads under Cloud Saves in the game.
+- Achievements you earn in the game are recorded in the Play Games "Achievements" of your Google account (which ones and when), where you can see them in Play Games. After changing phones or reinstalling, the game uses that record to give your badges back when you sign in. Google holds this record too; it does not go through our servers.
 - How Google handles this data is described in the [Google Privacy Policy](https://policies.google.com/privacy). To delete the cloud copy, see [How to delete your account](delete-account.md).
 
 ### 1.2 Data sent automatically when the game starts
