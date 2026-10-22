@@ -1,10 +1,10 @@
 # Skyscraper Town Privacy Policy
 
-**Effective date: October 17, 2026**　|　[中文](privacy-zh.md)
+**Effective date: October 23, 2026**　|　[中文](privacy-zh.md)
 
 Skyscraper Town (摩天小镇, "the game") is developed and operated by **WANWU LAB (玩物软件)** ("we", "us"). This policy explains what information the game collects, why, how it is stored, and what rights you have.
 
-In short: **your saves stay on your device (and, in the Google Play version, in your own Google account if you sign in to Play Games), you can play the whole game without signing in, and the game contains no ads and no third-party analytics or advertising SDKs.**
+In short: **your saves stay on your device (and, in the Google Play version, in your own Google account if you sign in to Play Games), you can play the whole game without signing in, and the game contains no ads and no third-party analytics or advertising SDKs. The game sends us anonymous progress statistics, which you can turn off in Settings.**
 
 ## 1. What we collect
 
@@ -63,7 +63,21 @@ The game includes a feedback survey. Filling it in is up to you. When you tap Se
 
 It does not include your account, email address, player name, or any device identifier, so we cannot tell who you are from it. Please don't put personal information in the text you write. As with any web request, Google, as the provider of Google Forms, receives the request (including your IP address); see Google's Privacy Policy for how Google handles it.
 
-### 1.6 What we do not collect
+### 1.6 Anonymous progress statistics (you can turn them off)
+
+To see where players get stuck or bored, the game (including the Google Play version) sends anonymous progress statistics to our server after you tap "Agree and Continue". **Turn off "Send anonymous stats" under Settings → Service and nothing more is sent; anything not yet sent is deleted from your device too.**
+
+They are sent when you open the game, each time you finish a step of the Owner's Path, every 15 minutes of play in your tower, and when you switch away from or close the game. Each report contains only:
+
+| Data | Purpose |
+|---|---|
+| Statistics ID | A random string created on your device the first time the game runs. **It is not taken from any hardware, system or advertising identifier**, and it is not linked to your account, Google account or owner name. Uninstalling the game or clearing its data removes it. It is used only to connect reports from the same device (for example, to tell whether the game was opened again the next day). |
+| Game progress | Which day since you started, total minutes played, how many steps of the Owner's Path you have finished and which one you are on, owner level, number of floors, the in-game day, which save slot is in use, and which mini-games you opened and how many times in that period. |
+| Game details | Game version, interface language, distribution channel (for example Google Play), and whether it is a debug test build or admin mode. |
+
+**Not sent**: your owner name, save contents, anything you type, your account, email, Google account details, device model, Advertising ID or location. As with any web request, the server sees your IP address; it is used only to prevent abuse and investigate problems and is not stored with the statistics.
+
+### 1.7 What we do not collect
 
 Location, contacts, photos, camera, microphone, SMS, call logs, the list of other apps on your device, or the Advertising ID. On Android the game requests only network-related permissions: Internet access and checking whether the network is connected. The Google Play version also uses Google Play Billing (for buying Time Cards).
 
@@ -87,6 +101,7 @@ In Settings you can enter the address and key of your own AI model service so re
 - Device identifier records that were never linked to an account are kept for up to 24 months after the last launch.
 - Server access logs are kept for up to 90 days.
 - Feedback survey responses are kept in our Google account, used only to improve the game, and kept for up to 24 months.
+- Anonymous progress statistics are used only to improve the game and are kept for up to 24 months after the device last sent them. Because they cannot identify you, we cannot delete them per person; you can turn them off in Settings at any time.
 - Data is stored on servers we rent, and all transfers use HTTPS encryption.
 
 ## 6. Your rights
