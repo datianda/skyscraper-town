@@ -65,7 +65,7 @@ It does not include your account, email address, player name, or any device iden
 
 ### 1.6 Anonymous progress statistics (you can turn them off)
 
-To see where players get stuck or bored, the game (including the Google Play version) sends anonymous progress statistics to our server after you tap "Agree and Continue". **Turn off "Send anonymous stats" under Settings → Service and nothing more is sent; anything not yet sent is deleted from your device too.**
+To see where players get stuck or bored, the game (including the Google Play version) sends anonymous progress statistics to our server after you tap "Agree and Continue". **Turn off "Send anonymous stats" under Settings → Support and nothing more is sent; anything not yet sent is deleted from your device too.**
 
 They are sent when you open the game, each time you finish a step of the Owner's Path, every 15 minutes of play in your tower, and when you switch away from or close the game. Each report contains only:
 
@@ -101,7 +101,7 @@ In Settings you can enter the address and key of your own AI model service so re
 - Device identifier records that were never linked to an account are kept for up to 24 months after the last launch.
 - Server access logs are kept for up to 90 days.
 - Feedback survey responses are kept in our Google account, used only to improve the game, and kept for up to 24 months.
-- Anonymous progress statistics are used only to improve the game and are kept for up to 24 months after the device last sent them. Because they cannot identify you, we cannot delete them per person; you can turn them off in Settings at any time.
+- Anonymous progress statistics are used only to improve the game and are kept for up to 24 months after the device last sent them. Because they cannot identify you, we cannot delete them per person; you can turn them off in Settings → Support at any time.
 - Data is stored on servers we rent, and all transfers use HTTPS encryption.
 
 ## 6. Your rights
