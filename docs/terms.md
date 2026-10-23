@@ -40,7 +40,10 @@ When using the game you must not:
 - use cheats, trainers or any other means to interfere with the game or our servers;
 - use someone else's account, or create accounts in bulk by automated means;
 - put unlawful, abusive or infringing text into content you enter yourself, such as tower or owner names;
+- use a Play Games name or profile picture that is unlawful, abusive or infringing while your tower is open to neighbors, or use Neighbors (likes, flowers, notes, reports) to harass other players or to manipulate counts;
 - use the game for any unlawful purpose.
+
+We may hide a tower from Neighbors or stop an account from using Neighbors if it breaks these rules. You can report towers and block other players in the game.
 
 ## 7. AI residents
 
