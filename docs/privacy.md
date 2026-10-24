@@ -83,9 +83,11 @@ Location, contacts, photos, camera, microphone, SMS, call logs, the list of othe
 
 **When you visit someone**, a short entry is placed in that player's visitor list: your Play Games player name, what you did (visited, liked, sent flowers, or left one of six preset notes), and when. There is no free-text chat. Visitor entries are deleted automatically after 14 days. Each action can be done once per day per tower.
 
+**Playing games with neighbors.** Players who have turned on "Open to neighbors" can challenge each other to Gomoku, Reversi or Xiangqi and take turns. Each game stores both players' Neighbors IDs and Play Games player names, which game it is, the board, whose turn it is, the result and the time, and **only the two players can see it**. There is no free-text chat. Unaccepted challenges expire after 48 hours, declined or withdrawn ones are then deleted, and finished games are kept for up to 30 days.
+
 **Report and block.** You can report a tower (inappropriate picture or name, or something else) and block its owner. A report stores who reported which tower, the reason and the time; we review reports in the Firebase console, and towers reported by three different players are hidden from browsing. Blocking hides each of you from the other; the list of players you block is stored with your public tower.
 
-**Turning it off deletes it.** When you turn off "Open to neighbors", your public tower, its visitor list and your Neighbors ID are deleted right away. Entries you left in other players' visitor lists expire within 14 days. Reports you made are kept for up to 12 months for safety review.
+**Turning it off deletes it.** When you turn off "Open to neighbors", your public tower, its visitor list, the games you are in and your Neighbors ID are deleted right away (unfinished games count as a resignation). Entries you left in other players' visitor lists expire within 14 days. Reports you made are kept for up to 12 months for safety review.
 
 ## 3. What we do not do
 
@@ -103,7 +105,7 @@ In Settings you can enter the address and key of your own AI model service so re
 - Device identifier records that were never linked to an account are kept for up to 24 months after the last launch.
 - Server access logs are kept for up to 90 days.
 - Feedback survey responses are kept in our Google account, used only to improve the game, and kept for up to 24 months.
-- Neighbors data (section 2) is kept in Google Firebase while "Open to neighbors" is on and deleted when you turn it off; visitor entries expire after 14 days; reports are kept for up to 12 months.
+- Neighbors data (section 2) is kept in Google Firebase while "Open to neighbors" is on and deleted when you turn it off; visitor entries expire after 14 days; finished games are deleted within 30 days; reports are kept for up to 12 months.
 - Data is stored on servers we rent, and all transfers use HTTPS encryption.
 
 ## 6. Your rights

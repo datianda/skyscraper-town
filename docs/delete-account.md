@@ -20,7 +20,7 @@ To stop future uploads, turn off "Upload after saving" under Cloud Saves on the 
 
 ## Google Play version: deleting Neighbors data
 
-If you turned on "Open to neighbors", turn it off in the game (Neighbors → Visitors, or Settings → Support). This immediately deletes your public tower, its visitor list and your Neighbors ID from Google Firebase. Entries you left in other players' visitor lists expire within 14 days. You do not need to contact us.
+If you turned on "Open to neighbors", turn it off in the game (Neighbors → Visitors, or Settings → Support). This immediately deletes your public tower, its visitor list, your games with neighbors and your Neighbors ID from Google Firebase. Entries you left in other players' visitor lists expire within 14 days. You do not need to contact us.
 
 ## If you created an account in a version from another channel
 
