@@ -73,7 +73,7 @@ Google keeps this data as part of Play Games Services, under your Google account
 
 ### 1.7 What we do not collect
 
-Location, contacts, photos, camera, microphone, SMS, call logs, or the list of other apps on your device. Outside the Google Play version, the game does not use the Advertising ID. On Android the game requests only network-related permissions: Internet access and checking whether the network is connected. The Google Play version also uses Google Play Billing (for buying Time Cards).
+Location, contacts, photos, camera, microphone, SMS, call logs, or the list of other apps on your device. Outside the Google Play version, the game does not use the Advertising ID. On Android the game itself requests only network-related permissions: Internet access and checking whether the network is connected. The Google Play version also uses Google Play Billing (for purchases), and the Google Mobile Ads SDK adds the Advertising ID permission plus a few system permissions it needs to run (keeping the device awake while an ad plays, a foreground service, and reading basic phone state such as the network type). None of these give access to your calls, contacts or files.
 
 ### 1.8 Reward ads (Google Play version only)
 
