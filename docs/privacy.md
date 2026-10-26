@@ -1,10 +1,10 @@
 # Skyscraper Town Privacy Policy
 
-**Effective date: October 23, 2026**　|　[中文](privacy-zh.md)
+**Effective date: October 26, 2026**　|　[中文](privacy-zh.md)
 
 Skyscraper Town (摩天小镇, "the game") is developed and operated by **WANWU LAB (玩物软件)** ("we", "us"). This policy explains what information the game collects, why, how it is stored, and what rights you have.
 
-In short: **your saves stay on your device (and, in the Google Play version, in your own Google account if you sign in to Play Games), you can play the whole game without signing in, and the game contains no ads and no third-party analytics or advertising SDKs. If you sign in to Play Games in the Google Play version, a few progress statistics are recorded through Play Games Services, which you can turn off in Settings. If you also turn on "Open to neighbors", other players can see your Play name, picture and tower (section 2).**
+In short: **your saves stay on your device (and, in the Google Play version, in your own Google account if you sign in to Play Games), you can play the whole game without signing in, and the game has no third-party analytics SDKs. The Google Play version has optional reward ads from Google AdMob: an ad plays only when you tap "Watch an ad" to get a bonus, and players who have bought anything never need to watch one (section 1.8). If you sign in to Play Games in the Google Play version, a few progress statistics are recorded through Play Games Services, which you can turn off in Settings. If you also turn on "Open to neighbors", other players can see your Play name, picture and tower (section 2).**
 
 ## 1. What we collect
 
@@ -73,7 +73,15 @@ Google keeps this data as part of Play Games Services, under your Google account
 
 ### 1.7 What we do not collect
 
-Location, contacts, photos, camera, microphone, SMS, call logs, the list of other apps on your device, or the Advertising ID. On Android the game requests only network-related permissions: Internet access and checking whether the network is connected. The Google Play version also uses Google Play Billing (for buying Time Cards).
+Location, contacts, photos, camera, microphone, SMS, call logs, or the list of other apps on your device. Outside the Google Play version, the game does not use the Advertising ID. On Android the game requests only network-related permissions: Internet access and checking whether the network is connected. The Google Play version also uses Google Play Billing (for buying Time Cards).
+
+### 1.8 Reward ads (Google Play version only)
+
+The Google Play version offers optional reward ads: buttons such as "Watch an ad: claim again" or "Watch an ad: wait 15 min less". **An ad plays only when you tap one of these buttons.** There are no banners and no ads that pop up on their own, and each button has a daily limit. If you have bought anything in the game, these buttons give the reward without an ad.
+
+The ads are served by **Google AdMob** (Google Mobile Ads SDK), which we use as our ad provider. To show and measure ads and to prevent fraud, AdMob collects data such as your device's **Advertising ID**, IP address, device and app information, and how you interact with the ads. Google processes this under its own policies; see [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites). We receive only aggregated reports (for example, how many ads were shown), not information about individual players.
+
+**Your choices.** In the EEA, the UK, Switzerland and other regions where consent is required, Google's consent form appears before any ad is requested, and you can choose whether ads may be personalized. You can change this at any time under Settings → Support → Ad privacy. On any Android device you can reset or delete your Advertising ID, or opt out of personalized ads, in the device's Google settings. If you never tap an ad button, no ad is requested.
 
 ## 2. Neighbors: visiting other players' towers (Google Play version, only when signed in to Play Games)
 
@@ -92,8 +100,8 @@ Location, contacts, photos, camera, microphone, SMS, call logs, the list of othe
 ## 3. What we do not do
 
 - We do not sell your personal information.
-- We do not use your information for advertising or profiling.
-- We do not include third-party advertising or analytics SDKs. (The Google Play version includes the Google Play Games Services SDK, used for sign-in, cloud saves, achievements, leaderboards and the progress statistics in section 1.6, and uses Google Firebase only for Neighbors in section 2.)
+- We do not use your information for advertising or profiling ourselves. Reward ads in the Google Play version are served by Google AdMob as described in section 1.8.
+- We do not include third-party analytics SDKs. (The Google Play version includes the Google Mobile Ads SDK for the reward ads in section 1.8, and the Google Play Games Services SDK, used for sign-in, cloud saves, achievements, leaderboards and the progress statistics in section 1.6, and uses Google Firebase only for Neighbors in section 2.)
 
 ## 4. AI residents (optional, off by default)
 
@@ -121,7 +129,7 @@ If you are in the EU, the UK, California or a similar jurisdiction, you also hav
 
 ## 7. Children
 
-The game is not directed to children under 13 (or the higher age set in your region), and we do not knowingly collect their personal information. The game includes simulated gambling minigames that involve no real money (see the [Terms of Use](terms.md)). If you are a guardian and believe your child has given us personal information, contact us and we will delete it.
+The game is not directed to children under 13 (or the higher age set in your region), and we do not knowingly collect their personal information. If you are a guardian and believe your child has given us personal information, contact us and we will delete it.
 
 ## 8. Changes to this policy
 

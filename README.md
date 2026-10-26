@@ -17,7 +17,7 @@ You own a tower. What goes up, who moves in and which shops open are all your ca
 - **Over two hundred room types**: apartments, restaurants, offices, malls, gyms, schools, spas, clinics, hotels, a pet center and more.
 - **More than eighty minigames**: every shop you open brings one. Chess, Go, Shogi, Mahjong, Hearts, Spades, Minesweeper, pinball, mini golf and more, each with full rules.
 - **Residents with names**: everyone has a job, a mood and things they want to do, and stories grow between them over time.
-- **No pressure**: no ads, fully playable without an account, and playable offline.
+- **No pressure**: no forced ads (only optional reward ads you choose to watch), fully playable without an account, and playable offline.
 - **Chinese and English.**
 
 ## Download
@@ -62,7 +62,7 @@ Skyscraper Town is developed by **WANWU LAB (玩物软件)**. All rights reserve
 - **两百多种房间**：公寓、餐饮、写字楼、商场、健身、学校、温泉、医院、酒店、宠物中心……
 - **八十多个小游戏**：楼里开了什么店，就能玩什么。象棋、围棋、将棋、麻将、掼蛋、红心大战、扫雷、弹珠台、迷你高尔夫……每个都有完整的规则说明。
 - **有名有姓的住户**：每个人有工作、心情和想做的事，日子久了他们之间会有故事。
-- **不逼你**：没有广告，不注册账号也能完整地玩，不联网也能玩。
+- **不逼你**：没有强制广告（只有你自己点了才放的「看广告领奖励」），不注册账号也能完整地玩，不联网也能玩。
 - **中文和英文**。
 
 ![楼里](docs/img/build.jpg)

@@ -51,9 +51,9 @@ Each page explains itself the first time you open it.
 
 ## Minigames
 
-Every shop you open brings a minigame: more than eighty card, board, arcade, sports and craft games. Each has a Rules button at the top with the full rules.
+Every shop you open brings a minigame: more than seventy card, board, arcade, sports and craft games. Each has a Rules button at the top with the full rules.
 
-Casino and card minigames are simulated entertainment only. Chips are fictional in-game items that cannot be bought with real money or exchanged for real money or goods.
+Minigames are entertainment only. Sky Coins are fictional in-game items that cannot be bought with real money or exchanged for real money or goods, and card games involve no stakes.
 
 ## Saves
 
@@ -69,6 +69,6 @@ Casino and card minigames are simulated entertainment only. Chips are fictional 
 
 **Is it free?** It's free to download, and the whole first tower is free with no time limit. If you enjoy it, one-time unlocks add every later tower, unlimited minigames, faster game speeds, Advisor Auto-Run, or all four together. Buy once and keep it on every device. Optional Time Card packs skip real-time upgrade waits, and daily and weekly quests give them out too.
 
-**Are there ads?** No.
+**Are there ads?** Only if you want a bonus. In the Google Play version you can tap "Watch an ad" for things like an extra daily reward or 15 minutes off a wait. Nothing plays unless you tap, and if you've bought anything you get these rewards without an ad.
 
 **How do I report a problem?** In the game: Menu → Settings → Account → Report a Problem. You can also open an issue at <https://github.com/datianda/skyscraper-town/issues>.

@@ -1,6 +1,6 @@
 # Skyscraper Town Terms of Use
 
-**Effective date: October 11, 2026**　|　[中文](terms-zh.md)
+**Effective date: October 26, 2026**　|　[中文](terms-zh.md)
 
 Welcome to Skyscraper Town (摩天小镇, "the game"), provided by **WANWU LAB (玩物软件)** ("we", "us"). By installing or using the game you agree to these terms and to the [Privacy Policy](privacy.md). If you do not agree, please do not use the game.
 
@@ -25,13 +25,16 @@ You must be at least 13 years old (or the higher age set in your region) to use 
 - In the Google Play version, purchases are made through Google Play. Payment, renewal and refunds follow Google Play's rules, and refund requests go to Google Play.
 - Paid entitlements are tied to your account. They cannot be transferred or exchanged for cash.
 
-## 5. Simulated gambling content
+## 5. Minigames and in-game currency
 
-The game includes casino-themed and card minigames. These are **simulated entertainment**:
+The game includes card, board and arcade minigames. They are **entertainment only**:
 
-- Chips and coins are fictional in-game items. **Chips cannot be bought with real money, and cannot be exchanged for real money, goods or anything of value.**
-- Winning or losing in a minigame does not reflect results in real gambling.
-- The game offers no real-money gambling of any kind.
+- Sky Coins are fictional in-game items. **They cannot be bought with real money, and cannot be exchanged for real money, goods or anything of value.** Card games involve no stakes.
+- The game offers no gambling of any kind.
+
+## 5a. Reward ads (Google Play version)
+
+The Google Play version offers optional reward ads served by Google AdMob. An ad plays only when you choose to watch one for a bonus. Rewards are given after the ad finishes and are subject to daily limits; we may change or end reward ads at any time. See the [Privacy Policy](privacy.md) section 1.8.
 
 ## 6. Your conduct
 
