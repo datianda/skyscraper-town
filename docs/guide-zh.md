@@ -71,4 +71,4 @@
 
 **有广告吗？** 只有你想要奖励的时候才有。Google Play 版本里可以点「看个广告」再领一份签到奖励、少等 15 分钟之类；不点就不会放。买过任何东西的玩家，这些奖励直接领，不用看广告。
 
-**遇到问题怎么反馈？** 游戏里：菜单 → 设置 → 账号 → 问题反馈。也可以到 <https://github.com/datianda/skyscraper-town/issues> 提交。
+**遇到问题怎么反馈？** 游戏里：菜单 → 设置 → 账号 → 问题反馈。也可以发邮件到 <wanwulab@gmail.com>，或者到 <https://github.com/datianda/skyscraper-town/issues> 提交。

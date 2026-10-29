@@ -29,7 +29,7 @@ If you turned on "Open to neighbors", turn it off in the game (Neighbors → Vis
 3. We verify that the request is yours (we may contact you at that address).
 4. Within 30 days of confirmation we complete the deletion and reply "Deleted" on the issue.
 
-If you would rather not post your email on a public page, open an issue with just the title "Delete account" and we will reply with a private way to send it.
+If you would rather not post your email on a public page, email <wanwulab@gmail.com> with the subject "Delete account" instead.
 
 ## What is deleted
 

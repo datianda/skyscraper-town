@@ -78,4 +78,5 @@ These terms are governed by the laws of the People's Republic of China. Disputes
 
 ## 14. Contact
 
+- Email: <wanwulab@gmail.com>
 - Open an issue on GitHub: <https://github.com/datianda/skyscraper-town/issues>

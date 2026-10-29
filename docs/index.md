@@ -13,4 +13,4 @@ Build floors, bring in residents, open shops, and turn one tower into a lively l
 | [Terms of Use](terms.md) | [用户协议](terms-zh.md) |
 | [Delete Your Account](delete-account.md) | [删除账号](delete-account-zh.md) |
 
-Feedback and contact: <https://github.com/datianda/skyscraper-town/issues>
+Feedback and contact: <wanwulab@gmail.com> or <https://github.com/datianda/skyscraper-town/issues>

@@ -137,6 +137,7 @@ Google Play 版本里有可选的「看广告领奖励」：比如「看个广�
 
 ## 9. 联系我们
 
+- 邮箱：<wanwulab@gmail.com>
 - 在 GitHub 上提交问题：<https://github.com/datianda/skyscraper-town/issues>
 
 涉及账号的请求请不要在公开的问题里写出密码等敏感信息。

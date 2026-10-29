@@ -137,6 +137,7 @@ When the policy changes in a material way, we update the effective date on this 
 
 ## 9. Contact
 
+- Email: <wanwulab@gmail.com>
 - Open an issue on GitHub: <https://github.com/datianda/skyscraper-town/issues>
 
 Please do not include passwords or other sensitive details in a public issue.

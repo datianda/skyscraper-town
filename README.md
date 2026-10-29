@@ -35,7 +35,7 @@ Coming soon to Google Play. The PC version will follow.
 
 ## Feedback
 
-Please open an [issue](https://github.com/datianda/skyscraper-town/issues) for problems or ideas.
+Please email <wanwulab@gmail.com> or open an [issue](https://github.com/datianda/skyscraper-town/issues) for problems or ideas.
 
 ## About this repository
 
@@ -82,7 +82,7 @@ Skyscraper Town is developed by **WANWU LAB (玩物软件)**. All rights reserve
 
 ## 反馈
 
-遇到问题或者有想法，请到 [Issues](https://github.com/datianda/skyscraper-town/issues) 提交。
+遇到问题或者有想法，请发邮件到 <wanwulab@gmail.com>，或者到 [Issues](https://github.com/datianda/skyscraper-town/issues) 提交。
 
 ## 关于这个仓库
 

@@ -78,4 +78,5 @@ Google Play 版本有可选的「看广告领奖励」，广告由 Google AdMob 
 
 ## 14. 联系我们
 
+- 邮箱：<wanwulab@gmail.com>
 - 在 GitHub 上提交问题：<https://github.com/datianda/skyscraper-town/issues>

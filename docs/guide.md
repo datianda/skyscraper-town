@@ -71,4 +71,4 @@ Minigames are entertainment only. Sky Coins are fictional in-game items that can
 
 **Are there ads?** Only if you want a bonus. In the Google Play version you can tap "Watch an ad" for things like an extra daily reward or 15 minutes off a wait. Nothing plays unless you tap, and if you've bought anything you get these rewards without an ad.
 
-**How do I report a problem?** In the game: Menu → Settings → Account → Report a Problem. You can also open an issue at <https://github.com/datianda/skyscraper-town/issues>.
+**How do I report a problem?** In the game: Menu → Settings → Account → Report a Problem. You can also email <wanwulab@gmail.com> or open an issue at <https://github.com/datianda/skyscraper-town/issues>.
